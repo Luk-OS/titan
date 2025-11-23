@@ -1,0 +1,32 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Sun, 23 Nov 2025 00:33:55 +0000
+Suite: stable
+MD5Sum:
+ ccb1bbd0ffc5849f806fcb3dd90b413f               52 Release
+ beeaaf2751c26c9a159ca29ca168e45a              590 main/binary-amd64/Packages
+ dbac604b4b10f746f3e1dfedb47cda3a              442 main/binary-amd64/Packages.gz
+SHA1:
+ 02f1c8a0bd0df673288624e16d4603a37fe550b0               52 Release
+ e75a2c55a6528a62cca7d6d81aaac898d16fb785              590 main/binary-amd64/Packages
+ bdf69769d6d4c70d83196ab868f812d7a6007e62              442 main/binary-amd64/Packages.gz
+SHA256:
+ ec08b3c6d45a7000f2b8aa94b346641056e388b7978131c765dd67305cf90918               52 Release
+ 285430a9c59bd2b88504c7fdaad33db54f862a330e7e9f8c2b774d6bc0b64ff7              590 main/binary-amd64/Packages
+ e4c749fe29e3301ec6594b664b82871c4464f373298f32ac6940b67b2fd17109              442 main/binary-amd64/Packages.gz
+SHA512:
+ cbba9ae836764b867a99fbdba9c9f0dfca826334a8db6c2947bde2434dcdd9de09f9af061aba52a7997eae2c027a6f18479097a6a05ea209c4f93b6ad66247c0               52 Release
+ 751c60da369efc25f3c03e530c59437de8a8e4e3142776b5bf8e12136922244840f423d0d8c9c1ebded82cd6cdc565e8d289c77a590f14dbf09370d0d69170bf              590 main/binary-amd64/Packages
+ 936fbd2b35d0698305f52785a6635962c3f888d5d70fac3310fe16942449eff7125333f57ba91272bdab8d727eedd204469806b90bf9b8d157ad8974183a5818              442 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEyameDO5/QE+R5G17CQMRhYm67bgFAmkiVnMACgkQCQMRhYm6
+7bjYsggAnd5Fn5gae5Yfs/4qSpPikk3iYM1rZEsuf5LtArFaMuEkemRNz5Rp23J1
+xEIs2T4BIb6VtB3Y/TXJBz3CN2kpYOKDOfHuj63yzunAk/TXAePOF9JB+FxycmzS
+1jW3WfBjJti5vjlbgl4dApuKmROaqAZyeXmquFdFmtohmJOuSf8VCSEL2TUR1A6P
+YMUK3Doi5ZrPQYz2DuqXtWyNV6SCoYsr4XVO9yuLWBqLZqJoGHVdo4AIJvdrQMzW
+qkBTcG2DsuN3ABa10YkH8zapoA+OXEuukJciYMk5MWgPCwQcDmeFCpp3UImFvHs/
+zlfxqjgg6CtM3aBqbyf+WcQwklWp4Q==
+=teLT
+-----END PGP SIGNATURE-----
