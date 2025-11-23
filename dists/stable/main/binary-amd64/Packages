@@ -1,0 +1,15 @@
+Package: lukos-branding
+Architecture: all
+Version: 1.0
+Priority: optional
+Section: base
+Maintainer: Aprende con Sthip <aprendeconsthip@gmail.com>
+Depends: bash, coreutils
+Filename: pool/main/lukos-branding_1.0_all.deb
+Size: 158596
+MD5sum: 991a149fcb5854ee212e5b4203cb253d
+SHA1: d83fce280a7badc6e5640cd004e8e51a9d19f748
+SHA256: 9be6c58b0f295a0b3ece70e372d52be4984c0098613b50f3c0f8ef785166ffe6
+SHA512: 1351a78f2e6650bcefc068a9f852cb69b7a505af0eb49497c56c31035b35e0621c6570953b7e074a30680618fd4f03578d6dcdeeaf7cced84ea11141d5fd9242
+Description: Branding completo de Luk-OS (Kronos) 1.0 Alpha
+
